@@ -10,7 +10,7 @@ struct IpV4Address {
     
 }
 struct IpV6Address {
-
+// daily
 }
 
 enum IpAddress {
